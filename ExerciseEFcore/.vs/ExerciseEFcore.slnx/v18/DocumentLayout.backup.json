@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Practice Code\\ExerciseEFcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|d:\\c#\\practice code\\exerciseefcore\\exerciseefcore\\enities\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|solutionrelative:exerciseefcore\\enities\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|d:\\c#\\practice code\\exerciseefcore\\exerciseefcore\\repository\\studentsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|solutionrelative:exerciseefcore\\repository\\studentsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|d:\\c#\\practice code\\exerciseefcore\\exerciseefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|solutionrelative:exerciseefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|d:\\c#\\practice code\\exerciseefcore\\exerciseefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|solutionrelative:exerciseefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|d:\\c#\\practice code\\exerciseefcore\\exerciseefcore\\enities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|solutionrelative:exerciseefcore\\enities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|d:\\c#\\practice code\\exerciseefcore\\exerciseefcore\\exerciseefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{487FE74E-8287-4200-85BD-AB734CCE1B84}|ExerciseEFcore\\ExerciseEFcore.csproj|solutionrelative:exerciseefcore\\exerciseefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\Enities\\Student.cs",
+              "RelativeDocumentMoniker": "ExerciseEFcore\\Enities\\Student.cs",
+              "ToolTip": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\Enities\\Student.cs",
+              "RelativeToolTip": "ExerciseEFcore\\Enities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T14:31:00.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsRepo.cs",
+              "DocumentMoniker": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\Repository\\StudentsRepo.cs",
+              "RelativeDocumentMoniker": "ExerciseEFcore\\Repository\\StudentsRepo.cs",
+              "ToolTip": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\Repository\\StudentsRepo.cs",
+              "RelativeToolTip": "ExerciseEFcore\\Repository\\StudentsRepo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwC8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T14:28:51.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\Enities\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "ExerciseEFcore\\Enities\\SchoolDbContext.cs",
+              "ToolTip": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\Enities\\SchoolDbContext.cs",
+              "RelativeToolTip": "ExerciseEFcore\\Enities\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T14:27:06.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\appsettings.json",
+              "RelativeDocumentMoniker": "ExerciseEFcore\\appsettings.json",
+              "ToolTip": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\appsettings.json",
+              "RelativeToolTip": "ExerciseEFcore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T14:23:20.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExerciseEFcore",
+              "DocumentMoniker": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\ExerciseEFcore.csproj",
+              "RelativeDocumentMoniker": "ExerciseEFcore\\ExerciseEFcore.csproj",
+              "ToolTip": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\ExerciseEFcore.csproj",
+              "RelativeToolTip": "ExerciseEFcore\\ExerciseEFcore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-23T14:23:02.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciseEFcore\\Program.cs",
+              "ToolTip": "D:\\C#\\Practice Code\\ExerciseEFcore\\ExerciseEFcore\\Program.cs",
+              "RelativeToolTip": "ExerciseEFcore\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T14:18:58.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
