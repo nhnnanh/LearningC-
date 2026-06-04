@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Repository/Repository.csproj" Id="faa9d177-5fc6-4828-b4d7-502957364303" />
+  <Project Path="Service/Service.csproj" Id="4edfb2a6-a0fe-4d8b-8462-d74fd9783126" />
+  <Project Path="WPFApp1/WPFApp1.csproj" />
+</Solution>
